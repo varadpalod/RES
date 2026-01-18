@@ -1,0 +1,4 @@
+rank,area,investment_score,recommendation,predicted_demand,price,investment_confidence,overall_sentiment,property_count
+1,Hinjewadi,32.8,Avoid,62.38,10000000.0,0.205,0.224,45
+2,Koregaon Park,32.8,Avoid,66.031166,27000000.0,0.158,0.177,215
+3,Kharadi,31.6,Avoid,64.4869,11000000.0,0.062,0.076,84

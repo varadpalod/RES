@@ -1,0 +1,97 @@
+{
+  "model_type": "xgboost",
+  "performance": {
+    "model_type": "xgboost",
+    "n_features": 19,
+    "n_samples": 344,
+    "train": {
+      "rmse": 0.11823804096914733,
+      "mae": 0.08120657071200275,
+      "r2": 0.9998998084920807
+    },
+    "test": {
+      "rmse": 2.09038340304119,
+      "mae": 1.2827309428781704,
+      "r2": 0.9637594164088148
+    },
+    "cv_r2_mean": 0.9113716362260904,
+    "cv_r2_std": 0.08058254333981735
+  },
+  "top_features": [
+    {
+      "feature": "num_bedrooms",
+      "importance": 0.8794082999229431,
+      "importance_pct": 87.94000244140625
+    },
+    {
+      "feature": "price_perception",
+      "importance": 0.09100103378295898,
+      "importance_pct": 9.100000381469727
+    },
+    {
+      "feature": "square_feet",
+      "importance": 0.01341256219893694,
+      "importance_pct": 1.340000033378601
+    },
+    {
+      "feature": "has_garage",
+      "importance": 0.007145891897380352,
+      "importance_pct": 0.7099999785423279
+    },
+    {
+      "feature": "price_per_sqft",
+      "importance": 0.006998045369982719,
+      "importance_pct": 0.699999988079071
+    },
+    {
+      "feature": "property_age",
+      "importance": 0.0009102933690883219,
+      "importance_pct": 0.09000000357627869
+    },
+    {
+      "feature": "infrastructure_satisfaction",
+      "importance": 0.0006942321197129786,
+      "importance_pct": 0.07000000029802322
+    },
+    {
+      "feature": "num_bathrooms",
+      "importance": 0.0002831649617291987,
+      "importance_pct": 0.029999999329447746
+    },
+    {
+      "feature": "sqft_per_bedroom",
+      "importance": 0.00014647271018475294,
+      "importance_pct": 0.009999999776482582
+    },
+    {
+      "feature": "buying_urgency",
+      "importance": 0.0,
+      "importance_pct": 0.0
+    },
+    {
+      "feature": "investment_confidence",
+      "importance": 0.0,
+      "importance_pct": 0.0
+    },
+    {
+      "feature": "overall_sentiment",
+      "importance": 0.0,
+      "importance_pct": 0.0
+    },
+    {
+      "feature": "sentiment_volatility",
+      "importance": 0.0,
+      "importance_pct": 0.0
+    },
+    {
+      "feature": "rooms_total",
+      "importance": 0.0,
+      "importance_pct": 0.0
+    },
+    {
+      "feature": "is_new_construction",
+      "importance": 0.0,
+      "importance_pct": 0.0
+    }
+  ]
+}

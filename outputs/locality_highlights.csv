@@ -1,0 +1,21 @@
+locality,highlights,issues,avg_rental_yield,rera_compliance_rate,metro_distance_km,it_park_distance_km,avg_commute_time_min
+Koregaon Park,"Premium lifestyle, Restaurants & nightlife, Central location, Expat-friendly","Parking shortage, High maintenance costs",3.2,95.0,4.5,12.0,35
+Hinjewadi,"IT hub proximity, Modern townships, Employment center, Upcoming metro","Heavy traffic, Limited social infrastructure",4.5,88.0,2.0,0.5,15
+Pimpri-Chinchwad,"Industrial hub, Affordable housing, PCMC metro, Good connectivity","Industrial pollution, Crowded areas",5.2,82.0,1.0,8.0,25
+Viman Nagar,"Airport proximity, Phoenix Mall, Established locality, Good schools","Aircraft noise, Traffic congestion",3.8,92.0,3.0,10.0,30
+Kalyani Nagar,"Premium locality, Aga Khan Palace, Riverfront, Corporate offices","High property costs, Limited new inventory",3.5,94.0,2.5,8.0,28
+Baner,"IT corridor, Balewadi Stadium, Multiplexes, Premium societies","Traffic bottlenecks, Water scarcity",4.0,90.0,5.0,4.0,22
+Wakad,"IT proximity, Affordable premium, Good connectivity, Rapid development","Infrastructure gaps, Waterlogging",4.8,85.0,3.0,3.0,18
+Kharadi,"EON IT Park, World Trade Center, Modern infrastructure, Job hub","Traffic on main road, Limited public transport",4.2,91.0,6.0,0.5,12
+Hadapsar,"Magarpatta City, IT parks, Budget-friendly, Metro connectivity","Distance from city center, Traffic issues",5.5,80.0,2.0,2.0,20
+Magarpatta,"Integrated township, Self-sufficient, Premium amenities, Walk to work","Premium pricing, Closed ecosystem",3.8,98.0,2.5,0.0,10
+Aundh,"University area, Bremen Chowk, Established locality, Good hospitals","Old constructions, Parking issues",3.6,93.0,4.0,6.0,25
+Shivaji Nagar,"City center, Commercial hub, FC Road, Educational institutes","Very crowded, No parking",3.0,88.0,0.5,10.0,30
+Deccan,"Heritage area, Cultural hub, Central location, Metro station","Old buildings, Very congested",2.8,85.0,0.0,10.0,32
+Kothrud,"Family-friendly, Good schools, Peaceful, Established infrastructure","Limited new projects, Premium pricing",3.4,92.0,3.0,8.0,28
+Warje,"Affordable, Near expressway, Developing area, Good value","Under development, Limited amenities",4.5,86.0,5.0,7.0,25
+Undri,"Most affordable, Green spaces, New developments, Investment potential","Far from city, Infrastructure gaps",5.8,78.0,10.0,12.0,40
+Kondhwa,"Affordable housing, Near NIBM, Growing area, Good connectivity","Traffic on main road, Water issues",5.0,82.0,8.0,10.0,35
+NIBM Road,"Educational hub, Affordable premium, Good societies, Family area","Single road access, Traffic jams",4.6,84.0,7.0,8.0,30
+Bavdhan,"Near expressway, Scenic location, Modern townships, Growing IT hub","Hilly terrain, Limited public transport",4.2,89.0,6.0,5.0,22
+Pashan,"University area, Research institutes, Peaceful, Green cover","Limited commercial options, Far from IT hubs",3.8,91.0,5.0,7.0,28

@@ -1,0 +1,109 @@
+[
+  {
+    "locality": "Hinjewadi",
+    "investment_score": 32.8,
+    "recommendation": "Avoid",
+    "summary": "Hinjewadi currently faces challenges. Consider alternative locations or timing.",
+    "strengths": [
+      "Above-average buyer demand"
+    ],
+    "weaknesses": [
+      "No major concerns identified"
+    ],
+    "action_items": [
+      "Launch modern smart homes to attract tech-savvy buyers \ud83c\udfe1\ud83d\udcbb",
+      "Introduce larger unit sizes (1500 sqft+) to cater to families \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+      "Focus on RERA compliance to build trust and attract investors \ud83c\udfe2\u2705"
+    ],
+    "target_segment": {
+      "demographics": {
+        "age_range": "30-45",
+        "income_level": "\u20b915,00,000+ per annum",
+        "family_status": "Married with children"
+      },
+      "psychographics": {
+        "interests": [
+          "technology",
+          "sustainable living",
+          "luxury amenities"
+        ],
+        "lifestyle": [
+          "urban professionals",
+          "work-life balance seekers"
+        ],
+        "pain_points": [
+          "limited space in current residences",
+          "lack of modern amenities"
+        ]
+      }
+    },
+    "pricing_strategy": "Competitive pricing to attract first-time buyers and families, with premium offerings for larger units.",
+    "avg_price": 10000000.0,
+    "demand_score": 62.380001068115234,
+    "rental_yield": "N/A"
+  },
+  {
+    "locality": "Koregaon Park",
+    "investment_score": 32.8,
+    "recommendation": "Avoid",
+    "summary": "Koregaon Park currently faces challenges. Consider alternative locations or timing.",
+    "strengths": [
+      "Above-average buyer demand"
+    ],
+    "weaknesses": [
+      "No major concerns identified"
+    ],
+    "action_items": [
+      "Focus on modern amenities and smart home features to attract younger buyers. \ud83c\udfe1",
+      "Introduce larger unit sizes (1500+ sqft) to cater to families looking for spacious living. \ud83d\udecb\ufe0f",
+      "Develop RERA-compliant projects to build trust and confidence among potential buyers. \u2705"
+    ],
+    "target_segment": {
+      "age_range": "30-45",
+      "income_level": "\u20b915,00,000+ per annum",
+      "occupation": "Professionals and Entrepreneurs",
+      "lifestyle": "Family-oriented with a preference for modern living and community amenities",
+      "preferences": {
+        "amenities": [
+          "Smart home technology",
+          "Gym",
+          "Swimming pool"
+        ],
+        "property_type": "Luxury apartments",
+        "location": "Koregaon Park"
+      }
+    },
+    "pricing_strategy": "Competitive pricing strategy to establish a foothold in the market, given the high average market price and low yield.",
+    "avg_price": 27000000.0,
+    "demand_score": 66.03116607666016,
+    "rental_yield": "N/A"
+  },
+  {
+    "locality": "Kharadi",
+    "investment_score": 31.6,
+    "recommendation": "Avoid",
+    "summary": "Kharadi currently faces challenges. Consider alternative locations or timing.",
+    "strengths": [
+      "Above-average buyer demand"
+    ],
+    "weaknesses": [
+      "No major concerns identified"
+    ],
+    "action_items": [
+      "Existing supply is older than 5 years, consider launching modern smart homes to attract tech-savvy buyers. \ud83c\udfe1\u2728",
+      "The average unit size is 1000 sqft; introduce spacious luxury 3 BHK units to cater to families looking for more space. \ud83d\udecc\ud83c\udffd\ud83c\udfe0",
+      "RERA compliance is at 0%; ensure full compliance and promote this as a key feature to build trust with potential buyers. \u2705\ud83d\udcdc"
+    ],
+    "target_segment": {
+      "age_range": "30-45",
+      "income_level": "\u20b91,500,000+ annually",
+      "family_structure": "Young families and working professionals",
+      "lifestyle_preferences": "Urban living, tech-friendly amenities, and community-oriented spaces",
+      "motivations": "Looking for modern, spacious homes with good connectivity and lifestyle amenities"
+    },
+    "pricing_strategy": "Competitive pricing strategy to attract buyers, slightly below market average to stimulate demand and gain market share.",
+    "avg_price": 11000000.0,
+    "demand_score": 64.48690032958984,
+    "rental_yield": "N/A"
+  }
+]

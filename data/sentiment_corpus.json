@@ -1,0 +1,986 @@
+[
+  {
+    "id": "soc_Kha_9116",
+    "text": "Kharadi vs Hinjewadi for IT professionals - thoughts? #PuneHomes",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2025-10-29",
+    "sentiment_category": "neutral"
+  },
+  {
+    "id": "rev_Kha_2785",
+    "text": "The social infrastructure in Kharadi is excellent. Good schools, parks, and shopping options.",
+    "locality": "Kharadi",
+    "source_type": "review",
+    "date": "2025-11-27",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "rev_Kha_8018",
+    "text": "Overrated area. Kharadi properties are overpriced for what you get. Better options elsewhere.",
+    "locality": "Kharadi",
+    "source_type": "review",
+    "date": "2025-12-14",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "soc_Kor_2045",
+    "text": "How's the water supply situation in Koregaon Park? Planning to buy there.",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-10-03",
+    "sentiment_category": "neutral"
+  },
+  {
+    "id": "soc_Kha_8796",
+    "text": "Just moved to Kharadi! The vibe here is amazing 🏠✨ #PuneRealEstate #NewHome",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2025-11-07",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "new_Kor_6932",
+    "text": "Koregaon Park market stabilizes, experts advise buyers to wait for festive offers",
+    "locality": "Koregaon Park",
+    "source_type": "news",
+    "date": "2025-12-25",
+    "sentiment_category": "low_urgency"
+  },
+  {
+    "id": "rev_Kha_1274",
+    "text": "Kharadi offers the perfect work-life balance. Close to IT hubs yet away from the chaos.",
+    "locality": "Kharadi",
+    "source_type": "review",
+    "date": "2026-01-10",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "new_Hin_5223",
+    "text": "Hinjewadi ranked among top 5 emerging investment destinations in Pune",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-09-28",
+    "sentiment_category": "positive_investment"
+  },
+  {
+    "id": "soc_Kha_4507",
+    "text": "Stuck in Kharadi traffic again 😤 This area needs serious infrastructure work",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2025-12-20",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "soc_Hin_9308",
+    "text": "Regretting my Hinjewadi investment. Market is completely stagnant here 📉",
+    "locality": "Hinjewadi",
+    "source_type": "social_media",
+    "date": "2025-10-20",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Hin_6276",
+    "text": "The social infrastructure in Hinjewadi is excellent. Good schools, parks, and shopping options.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-08-24",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "rev_Hin_6499",
+    "text": "Great location but prices in Hinjewadi are getting out of hand. Mixed feelings overall.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-08-27",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "new_Kha_9971",
+    "text": "No rush to buy in Kharadi as new projects set to launch next quarter",
+    "locality": "Kharadi",
+    "source_type": "news",
+    "date": "2025-11-15",
+    "sentiment_category": "low_urgency"
+  },
+  {
+    "id": "new_Hin_2307",
+    "text": "Delayed projects in Hinjewadi shake investor confidence in the area",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-12-31",
+    "sentiment_category": "negative_investment"
+  },
+  {
+    "id": "new_Kor_1493",
+    "text": "Koregaon Park witnesses major infrastructure upgrade with new flyovers and road widening",
+    "locality": "Koregaon Park",
+    "source_type": "news",
+    "date": "2025-08-11",
+    "sentiment_category": "positive_infra"
+  },
+  {
+    "id": "soc_Kha_2906",
+    "text": "How's the water supply situation in Kharadi? Planning to buy there.",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2025-12-26",
+    "sentiment_category": "neutral"
+  },
+  {
+    "id": "new_Kor_1225",
+    "text": "Abundant inventory in Koregaon Park gives buyers time to make informed decisions",
+    "locality": "Koregaon Park",
+    "source_type": "news",
+    "date": "2025-11-05",
+    "sentiment_category": "low_urgency"
+  },
+  {
+    "id": "soc_Kor_5659",
+    "text": "Checking out properties in Koregaon Park this weekend. Any recommendations? 🤔",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-11-29",
+    "sentiment_category": "neutral"
+  },
+  {
+    "id": "rev_Kha_9187",
+    "text": "Water supply issues in Kharadi are frustrating. Have to rely on tankers during summer.",
+    "locality": "Kharadi",
+    "source_type": "review",
+    "date": "2025-11-10",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "new_Hin_6201",
+    "text": "Abundant inventory in Hinjewadi gives buyers time to make informed decisions",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-10-19",
+    "sentiment_category": "low_urgency"
+  },
+  {
+    "id": "soc_Kha_5880",
+    "text": "Kharadi is overhyped and overpriced. Don't fall for the marketing 🚫",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2025-10-14",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Kor_9229",
+    "text": "The social infrastructure in Koregaon Park is excellent. Good schools, parks, and shopping options.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-07-26",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "new_Kha_3846",
+    "text": "Last few units available at old rates in Kharadi premium projects",
+    "locality": "Kharadi",
+    "source_type": "news",
+    "date": "2025-09-30",
+    "sentiment_category": "high_urgency"
+  },
+  {
+    "id": "rev_Hin_8878",
+    "text": "Maintenance costs in Hinjewadi societies are ridiculously high. Not worth it.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-07-28",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "new_Hin_1616",
+    "text": "Hinjewadi market stabilizes, experts advise buyers to wait for festive offers",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-12-28",
+    "sentiment_category": "low_urgency"
+  },
+  {
+    "id": "rev_Kor_6778",
+    "text": "Great location but prices in Koregaon Park are getting out of hand. Mixed feelings overall.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-12-07",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "soc_Hin_9493",
+    "text": "How's the water supply situation in Hinjewadi? Planning to buy there.",
+    "locality": "Hinjewadi",
+    "source_type": "social_media",
+    "date": "2026-01-05",
+    "sentiment_category": "neutral"
+  },
+  {
+    "id": "new_Hin_6615",
+    "text": "Poor road conditions in Hinjewadi despite high property taxes, residents complain",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-12-07",
+    "sentiment_category": "negative_infra"
+  },
+  {
+    "id": "rev_Hin_7912",
+    "text": "Overrated area. Hinjewadi properties are overpriced for what you get. Better options elsewhere.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2026-01-03",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Kha_9347",
+    "text": "Living in Kharadi for 3 years now. Best decision ever! Great connectivity and peaceful environment.",
+    "locality": "Kharadi",
+    "source_type": "review",
+    "date": "2025-08-09",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "new_Kha_7890",
+    "text": "Kharadi witnesses major infrastructure upgrade with new flyovers and road widening",
+    "locality": "Kharadi",
+    "source_type": "news",
+    "date": "2025-10-04",
+    "sentiment_category": "positive_infra"
+  },
+  {
+    "id": "new_Kha_5252",
+    "text": "Major IT companies setting up offices near Kharadi signal growth potential",
+    "locality": "Kharadi",
+    "source_type": "news",
+    "date": "2025-12-16",
+    "sentiment_category": "positive_investment"
+  },
+  {
+    "id": "soc_Hin_4249",
+    "text": "Property prices may be high but Hinjewadi quality of life is unmatched 💯",
+    "locality": "Hinjewadi",
+    "source_type": "social_media",
+    "date": "2025-10-31",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "rev_Kha_5892",
+    "text": "Water supply issues in Kharadi are frustrating. Have to rely on tankers during summer.",
+    "locality": "Kharadi",
+    "source_type": "review",
+    "date": "2025-10-18",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Kor_7174",
+    "text": "Living in Koregaon Park for 3 years now. Best decision ever! Great connectivity and peaceful environment.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-10-26",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "rev_Kha_4217",
+    "text": "Peaceful locality but Kharadi lacks quality healthcare facilities nearby.",
+    "locality": "Kharadi",
+    "source_type": "review",
+    "date": "2025-08-11",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "new_Kha_7320",
+    "text": "Kharadi real estate becoming increasingly unaffordable for middle-class families",
+    "locality": "Kharadi",
+    "source_type": "news",
+    "date": "2025-10-29",
+    "sentiment_category": "negative_price"
+  },
+  {
+    "id": "new_Kor_8655",
+    "text": "Koregaon Park offers competitive pricing without compromising on amenities and connectivity",
+    "locality": "Koregaon Park",
+    "source_type": "news",
+    "date": "2026-01-03",
+    "sentiment_category": "positive_price"
+  },
+  {
+    "id": "soc_Hin_3299",
+    "text": "Power cut in Hinjewadi for the 4th time this week. Paying premium rates for what? 😡",
+    "locality": "Hinjewadi",
+    "source_type": "social_media",
+    "date": "2025-08-15",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "soc_Kor_1424",
+    "text": "Stuck in Koregaon Park traffic again 😤 This area needs serious infrastructure work",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2026-01-05",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "soc_Kor_2093",
+    "text": "Checking out properties in Koregaon Park this weekend. Any recommendations? 🤔",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-09-17",
+    "sentiment_category": "neutral"
+  },
+  {
+    "id": "rev_Kha_4953",
+    "text": "Traffic in Kharadi has become unbearable. What used to be a 15-min commute now takes an hour.",
+    "locality": "Kharadi",
+    "source_type": "review",
+    "date": "2025-07-28",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "new_Kha_3152",
+    "text": "Smart city initiatives transform Kharadi into modern residential hub",
+    "locality": "Kharadi",
+    "source_type": "news",
+    "date": "2025-12-23",
+    "sentiment_category": "positive_infra"
+  },
+  {
+    "id": "new_Kor_4273",
+    "text": "Waterlogging issues plague Koregaon Park during monsoon season, residents frustrated",
+    "locality": "Koregaon Park",
+    "source_type": "news",
+    "date": "2025-08-14",
+    "sentiment_category": "negative_infra"
+  },
+  {
+    "id": "new_Hin_2863",
+    "text": "Real estate experts recommend Hinjewadi for budget-conscious investors seeking quality homes",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-09-28",
+    "sentiment_category": "positive_price"
+  },
+  {
+    "id": "rev_Hin_7880",
+    "text": "Hinjewadi is good but getting crowded. Infrastructure hasn't kept pace with development.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-10-10",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "rev_Hin_6182",
+    "text": "Hinjewadi has transformed completely. Metro, malls, hospitals - everything within reach. Highly recommend!",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-09-23",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "new_Hin_8232",
+    "text": "Smart city initiatives transform Hinjewadi into modern residential hub",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2026-01-14",
+    "sentiment_category": "positive_infra"
+  },
+  {
+    "id": "new_Hin_9539",
+    "text": "Fast-selling projects in Hinjewadi - buyers advised to book early",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-10-18",
+    "sentiment_category": "high_urgency"
+  },
+  {
+    "id": "new_Kor_6476",
+    "text": "No rush to buy in Koregaon Park as new projects set to launch next quarter",
+    "locality": "Koregaon Park",
+    "source_type": "news",
+    "date": "2025-09-08",
+    "sentiment_category": "low_urgency"
+  },
+  {
+    "id": "soc_Kha_7167",
+    "text": "Kharadi morning walks hit different! Best area to live in Pune hands down 🌅",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2025-09-29",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "soc_Kor_1301",
+    "text": "Koregaon Park morning walks hit different! Best area to live in Pune hands down 🌅",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-11-29",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "soc_Hin_3090",
+    "text": "How's the water supply situation in Hinjewadi? Planning to buy there.",
+    "locality": "Hinjewadi",
+    "source_type": "social_media",
+    "date": "2025-08-25",
+    "sentiment_category": "neutral"
+  },
+  {
+    "id": "rev_Hin_3992",
+    "text": "Peaceful locality but Hinjewadi lacks quality healthcare facilities nearby.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-09-04",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "new_Kor_1140",
+    "text": "Last few units available at old rates in Koregaon Park premium projects",
+    "locality": "Koregaon Park",
+    "source_type": "news",
+    "date": "2025-11-27",
+    "sentiment_category": "high_urgency"
+  },
+  {
+    "id": "soc_Hin_2513",
+    "text": "Regretting my Hinjewadi investment. Market is completely stagnant here 📉",
+    "locality": "Hinjewadi",
+    "source_type": "social_media",
+    "date": "2025-08-26",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Hin_2773",
+    "text": "Traffic in Hinjewadi has become unbearable. What used to be a 15-min commute now takes an hour.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2026-01-16",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "soc_Kha_6362",
+    "text": "How's the water supply situation in Kharadi? Planning to buy there.",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2026-01-11",
+    "sentiment_category": "neutral"
+  },
+  {
+    "id": "soc_Kor_6209",
+    "text": "Power cut in Koregaon Park for the 4th time this week. Paying premium rates for what? 😡",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-08-03",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "new_Hin_4844",
+    "text": "Hinjewadi pre-launch offers seeing unprecedented demand from NRIs",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-07-30",
+    "sentiment_category": "high_urgency"
+  },
+  {
+    "id": "rev_Kha_1325",
+    "text": "Kharadi offers the perfect work-life balance. Close to IT hubs yet away from the chaos.",
+    "locality": "Kharadi",
+    "source_type": "review",
+    "date": "2025-08-04",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "new_Hin_3509",
+    "text": "Hinjewadi property market faces uncertainty amid changing buyer preferences",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-09-14",
+    "sentiment_category": "negative_investment"
+  },
+  {
+    "id": "rev_Kor_7919",
+    "text": "Water supply issues in Koregaon Park are frustrating. Have to rely on tankers during summer.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2026-01-04",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Kha_3065",
+    "text": "Kharadi offers the perfect work-life balance. Close to IT hubs yet away from the chaos.",
+    "locality": "Kharadi",
+    "source_type": "review",
+    "date": "2025-11-27",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "rev_Kor_7829",
+    "text": "Koregaon Park has potential but needs better public transport connectivity.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-08-24",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "soc_Kha_2492",
+    "text": "Just moved to Kharadi! The vibe here is amazing 🏠✨ #PuneRealEstate #NewHome",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2025-10-10",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "rev_Hin_2299",
+    "text": "Traffic in Hinjewadi has become unbearable. What used to be a 15-min commute now takes an hour.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-12-14",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "soc_Kha_1387",
+    "text": "Regretting my Kharadi investment. Market is completely stagnant here 📉",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2025-08-20",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Hin_1959",
+    "text": "Bought a 2BHK in Hinjewadi in 2020. Value has appreciated significantly. Happy with my investment.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-09-26",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "rev_Kor_7613",
+    "text": "Traffic in Koregaon Park has become unbearable. What used to be a 15-min commute now takes an hour.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-11-08",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "soc_Hin_3742",
+    "text": "How's the water supply situation in Hinjewadi? Planning to buy there.",
+    "locality": "Hinjewadi",
+    "source_type": "social_media",
+    "date": "2025-08-30",
+    "sentiment_category": "neutral"
+  },
+  {
+    "id": "soc_Kor_9116",
+    "text": "Power cut in Koregaon Park for the 4th time this week. Paying premium rates for what? 😡",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-12-01",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "new_Kha_7728",
+    "text": "Major IT companies setting up offices near Kharadi signal growth potential",
+    "locality": "Kharadi",
+    "source_type": "news",
+    "date": "2025-10-05",
+    "sentiment_category": "positive_investment"
+  },
+  {
+    "id": "rev_Kor_8696",
+    "text": "Koregaon Park has transformed completely. Metro, malls, hospitals - everything within reach. Highly recommend!",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-07-26",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "rev_Hin_4979",
+    "text": "Hinjewadi offers the perfect work-life balance. Close to IT hubs yet away from the chaos.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-08-13",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "rev_Kor_7385",
+    "text": "Koregaon Park has transformed completely. Metro, malls, hospitals - everything within reach. Highly recommend!",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-12-12",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "new_Kha_4349",
+    "text": "Oversupply of apartments in Kharadi leads to declining rental yields",
+    "locality": "Kharadi",
+    "source_type": "news",
+    "date": "2025-07-30",
+    "sentiment_category": "negative_investment"
+  },
+  {
+    "id": "new_Hin_2751",
+    "text": "Metro line extension to Hinjewadi boosts real estate sentiment significantly",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-09-24",
+    "sentiment_category": "positive_infra"
+  },
+  {
+    "id": "new_Kor_4188",
+    "text": "Real estate experts recommend Koregaon Park for budget-conscious investors seeking quality homes",
+    "locality": "Koregaon Park",
+    "source_type": "news",
+    "date": "2025-12-28",
+    "sentiment_category": "positive_price"
+  },
+  {
+    "id": "rev_Hin_7775",
+    "text": "Peaceful locality but Hinjewadi lacks quality healthcare facilities nearby.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-08-20",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "soc_Kor_6202",
+    "text": "Regretting my Koregaon Park investment. Market is completely stagnant here 📉",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-07-30",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Kor_3482",
+    "text": "Traffic in Koregaon Park has become unbearable. What used to be a 15-min commute now takes an hour.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-12-30",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "soc_Kor_2430",
+    "text": "How's the water supply situation in Koregaon Park? Planning to buy there.",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-12-19",
+    "sentiment_category": "neutral"
+  },
+  {
+    "id": "rev_Kor_6613",
+    "text": "Traffic in Koregaon Park has become unbearable. What used to be a 15-min commute now takes an hour.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-11-29",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Kor_2523",
+    "text": "The social infrastructure in Koregaon Park is excellent. Good schools, parks, and shopping options.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-12-24",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "rev_Kha_4407",
+    "text": "Traffic in Kharadi has become unbearable. What used to be a 15-min commute now takes an hour.",
+    "locality": "Kharadi",
+    "source_type": "review",
+    "date": "2025-09-26",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Hin_6461",
+    "text": "Hinjewadi is good but getting crowded. Infrastructure hasn't kept pace with development.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-11-23",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "soc_Kor_1215",
+    "text": "Regretting my Koregaon Park investment. Market is completely stagnant here 📉",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-10-09",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Kor_8898",
+    "text": "Living in Koregaon Park for 3 years now. Best decision ever! Great connectivity and peaceful environment.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-11-26",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "new_Hin_9037",
+    "text": "Hinjewadi offers competitive pricing without compromising on amenities and connectivity",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-11-28",
+    "sentiment_category": "positive_price"
+  },
+  {
+    "id": "rev_Kor_9678",
+    "text": "Peaceful locality but Koregaon Park lacks quality healthcare facilities nearby.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-12-23",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "rev_Kor_4867",
+    "text": "Peaceful locality but Koregaon Park lacks quality healthcare facilities nearby.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-10-10",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "rev_Kha_7070",
+    "text": "Overrated area. Kharadi properties are overpriced for what you get. Better options elsewhere.",
+    "locality": "Kharadi",
+    "source_type": "review",
+    "date": "2025-10-22",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "new_Kor_8644",
+    "text": "Overpriced properties in Koregaon Park lead to slowing sales momentum",
+    "locality": "Koregaon Park",
+    "source_type": "news",
+    "date": "2025-10-09",
+    "sentiment_category": "negative_price"
+  },
+  {
+    "id": "soc_Hin_1657",
+    "text": "Power cut in Hinjewadi for the 4th time this week. Paying premium rates for what? 😡",
+    "locality": "Hinjewadi",
+    "source_type": "social_media",
+    "date": "2025-09-17",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "soc_Hin_4927",
+    "text": "Finally invested in Hinjewadi! Excited for the appreciation 📈 #RealEstateInvestment",
+    "locality": "Hinjewadi",
+    "source_type": "social_media",
+    "date": "2025-10-10",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "rev_Kor_2101",
+    "text": "Great location but prices in Koregaon Park are getting out of hand. Mixed feelings overall.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-11-16",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "soc_Kor_9362",
+    "text": "Finally invested in Koregaon Park! Excited for the appreciation 📈 #RealEstateInvestment",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-07-25",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "soc_Hin_5811",
+    "text": "Hinjewadi morning walks hit different! Best area to live in Pune hands down 🌅",
+    "locality": "Hinjewadi",
+    "source_type": "social_media",
+    "date": "2025-10-03",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "soc_Kha_1345",
+    "text": "Checking out properties in Kharadi this weekend. Any recommendations? 🤔",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2025-11-24",
+    "sentiment_category": "neutral"
+  },
+  {
+    "id": "new_Kha_1450",
+    "text": "Property values in Kharadi appreciate 15% year-on-year, investors rejoice",
+    "locality": "Kharadi",
+    "source_type": "news",
+    "date": "2025-10-11",
+    "sentiment_category": "positive_investment"
+  },
+  {
+    "id": "soc_Kha_7528",
+    "text": "Stuck in Kharadi traffic again 😤 This area needs serious infrastructure work",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2025-10-25",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Kor_9630",
+    "text": "Living in Koregaon Park for 3 years now. Best decision ever! Great connectivity and peaceful environment.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-08-07",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "new_Hin_3061",
+    "text": "Hinjewadi market stabilizes, experts advise buyers to wait for festive offers",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-08-11",
+    "sentiment_category": "low_urgency"
+  },
+  {
+    "id": "soc_Kha_2704",
+    "text": "Kharadi morning walks hit different! Best area to live in Pune hands down 🌅",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2025-08-27",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "soc_Hin_5861",
+    "text": "Finally invested in Hinjewadi! Excited for the appreciation 📈 #RealEstateInvestment",
+    "locality": "Hinjewadi",
+    "source_type": "social_media",
+    "date": "2025-10-31",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "rev_Hin_4715",
+    "text": "Noise pollution in Hinjewadi has increased due to ongoing construction everywhere.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-10-02",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Kor_9285",
+    "text": "Peaceful locality but Koregaon Park lacks quality healthcare facilities nearby.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2026-01-02",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "soc_Kor_8217",
+    "text": "Regretting my Koregaon Park investment. Market is completely stagnant here 📉",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-09-17",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "rev_Kor_7910",
+    "text": "Maintenance costs in Koregaon Park societies are ridiculously high. Not worth it.",
+    "locality": "Koregaon Park",
+    "source_type": "review",
+    "date": "2025-09-01",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "new_Kha_7292",
+    "text": "Poor road conditions in Kharadi despite high property taxes, residents complain",
+    "locality": "Kharadi",
+    "source_type": "news",
+    "date": "2025-08-07",
+    "sentiment_category": "negative_infra"
+  },
+  {
+    "id": "new_Hin_4075",
+    "text": "Fast-selling projects in Hinjewadi - buyers advised to book early",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2026-01-13",
+    "sentiment_category": "high_urgency"
+  },
+  {
+    "id": "new_Hin_7966",
+    "text": "Hinjewadi real estate delivers consistent returns, becomes investor favorite",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-12-16",
+    "sentiment_category": "positive_investment"
+  },
+  {
+    "id": "soc_Kor_7535",
+    "text": "Finally invested in Koregaon Park! Excited for the appreciation 📈 #RealEstateInvestment",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-11-12",
+    "sentiment_category": "positive"
+  },
+  {
+    "id": "soc_Kor_9417",
+    "text": "Koregaon Park vs Hinjewadi for IT professionals - thoughts? #PuneHomes",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-12-12",
+    "sentiment_category": "neutral"
+  },
+  {
+    "id": "rev_Hin_5830",
+    "text": "Hinjewadi is good but getting crowded. Infrastructure hasn't kept pace with development.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-11-14",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "rev_Hin_8008",
+    "text": "Peaceful locality but Hinjewadi lacks quality healthcare facilities nearby.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-08-06",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "rev_Hin_6524",
+    "text": "Overrated area. Hinjewadi properties are overpriced for what you get. Better options elsewhere.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2025-11-03",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "soc_Kha_8050",
+    "text": "Regretting my Kharadi investment. Market is completely stagnant here 📉",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2025-11-29",
+    "sentiment_category": "negative"
+  },
+  {
+    "id": "soc_Kor_2376",
+    "text": "How's the water supply situation in Koregaon Park? Planning to buy there.",
+    "locality": "Koregaon Park",
+    "source_type": "social_media",
+    "date": "2025-11-10",
+    "sentiment_category": "neutral"
+  },
+  {
+    "id": "new_Hin_3954",
+    "text": "Major IT companies setting up offices near Hinjewadi signal growth potential",
+    "locality": "Hinjewadi",
+    "source_type": "news",
+    "date": "2025-07-29",
+    "sentiment_category": "positive_investment"
+  },
+  {
+    "id": "rev_Hin_2401",
+    "text": "Great location but prices in Hinjewadi are getting out of hand. Mixed feelings overall.",
+    "locality": "Hinjewadi",
+    "source_type": "review",
+    "date": "2026-01-06",
+    "sentiment_category": "mixed"
+  },
+  {
+    "id": "soc_Kha_3720",
+    "text": "Kharadi vs Hinjewadi for IT professionals - thoughts? #PuneHomes",
+    "locality": "Kharadi",
+    "source_type": "social_media",
+    "date": "2026-01-05",
+    "sentiment_category": "neutral"
+  }
+]

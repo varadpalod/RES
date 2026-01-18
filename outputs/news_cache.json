@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-01-18T17:40:03.862322",
+  "data": {
+    "locality_news": {
+      "Hinjewadi": [],
+      "Baner": [],
+      "Koregaon Park": []
+    },
+    "general_news": [
+      {
+        "title": "12-year-old Pune boy dies after falling through building duct; builders booked for negligence",
+        "summary": "",
+        "link": "https://indianexpress.com/article/cities/pune/12-year-old-pune-boy-dies-after-falling-through-building-duct-builders-booked-for-negligence-10465943/",
+        "date": "Recent"
+      },
+      {
+        "title": "Congress gave approval for Pune Metro: Chavan joins Pawar in countering BJP credit for project",
+        "summary": "",
+        "link": "https://indianexpress.com/article/cities/pune/congress-gave-approval-for-pune-metro-chavan-joins-pawar-in-countering-bjp-credit-for-project-10462993/",
+        "date": "Recent"
+      }
+    ]
+  }
+}

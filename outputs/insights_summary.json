@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-01-18T00:23:32.596331",
+  "summary": {
+    "total_localities": 3,
+    "strong_buy_count": 0,
+    "buy_count": 0,
+    "total_alerts": 0,
+    "opportunity_alerts": 0,
+    "warning_alerts": 0
+  },
+  "top_localities": [
+    {
+      "area": "Hinjewadi",
+      "investment_score": 32.8,
+      "recommendation": "Avoid"
+    },
+    {
+      "area": "Koregaon Park",
+      "investment_score": 32.8,
+      "recommendation": "Avoid"
+    },
+    {
+      "area": "Kharadi",
+      "investment_score": 31.6,
+      "recommendation": "Avoid"
+    }
+  ]
+}

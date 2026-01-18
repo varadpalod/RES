@@ -1,0 +1,51 @@
+id,area,predicted_demand,demand_category,price,square_feet,num_bedrooms,priority_reason
+155,Koregaon Park,84.7,Very High,13400000,1055,2,Very high predicted demand
+148,Koregaon Park,84.6,Very High,12200000,1005,2,Very high predicted demand
+176,Koregaon Park,84.6,Very High,12100000,1015,2,Very high predicted demand
+210,Koregaon Park,84.6,Very High,13600000,1075,2,Very high predicted demand
+169,Koregaon Park,84.4,Very High,11900000,990,2,Very high predicted demand
+67,Koregaon Park,84.3,Very High,12200000,980,2,Very high predicted demand
+188,Koregaon Park,84.3,Very High,12200000,1010,2,Very high predicted demand
+21,Koregaon Park,84.2,Very High,7000000,950,2,Very high predicted demand
+108,Koregaon Park,84.2,Very High,12700000,1015,2,Very high predicted demand
+93,Koregaon Park,83.9,Very High,11100000,910,2,Very high predicted demand
+119,Koregaon Park,83.9,Very High,12300000,995,2,Very high predicted demand
+16,Koregaon Park,83.8,Very High,11500000,900,2,Very high predicted demand
+162,Koregaon Park,83.8,Very High,11100000,905,2,Very high predicted demand
+26,Koregaon Park,83.7,Very High,12500000,1000,2,Very high predicted demand
+203,Koregaon Park,83.7,Very High,12000000,1025,2,Very high predicted demand
+207,Koregaon Park,83.7,Very High,11399999,945,2,Very high predicted demand
+60,Koregaon Park,83.6,Very High,10800000,880,2,Very high predicted demand
+193,Koregaon Park,83.3,Very High,13000000,1045,2,Very high predicted demand
+29,Koregaon Park,83.2,Very High,14000000,1100,2,Very high predicted demand
+101,Koregaon Park,83.1,Very High,11900000,985,2,Very high predicted demand
+74,Koregaon Park,83.0,Very High,10200000,840,2,Very high predicted demand
+45,Koregaon Park,82.8,Very High,10500000,850,2,Very high predicted demand
+134,Koregaon Park,82.8,Very High,11000000,895,2,Very high predicted demand
+57,Koregaon Park,82.4,Very High,12800000,1020,2,Very high predicted demand
+196,Koregaon Park,82.3,Very High,12000000,1000,2,Very high predicted demand
+78,Koregaon Park,82.2,Very High,12600000,1010,2,Very high predicted demand
+96,Koregaon Park,82.2,Very High,13200000,1040,2,Very high predicted demand
+166,Koregaon Park,82.2,Very High,12900000,1035,2,Very high predicted demand
+11,Koregaon Park,82.1,Very High,15000000,1000,2,Very high predicted demand
+131,Koregaon Park,82.1,Very High,12000000,990,2,Very high predicted demand
+37,Koregaon Park,81.8,Very High,11500000,950,2,Very high predicted demand
+52,Koregaon Park,81.6,Very High,11200000,920,2,Very high predicted demand
+116,Koregaon Park,81.5,Very High,10700000,865,2,Very high predicted demand
+81,Koregaon Park,81.3,Very High,11600000,970,2,Very high predicted demand
+159,Koregaon Park,81.3,Very High,12100000,1000,2,Very high predicted demand
+111,Koregaon Park,81.2,Very High,11700000,975,2,Very high predicted demand
+333,Kharadi,81.2,Very High,7300000,1150,2,Very high predicted demand
+311,Kharadi,80.9,Very High,7000000,1045,2,Very high predicted demand
+123,Koregaon Park,80.8,Very High,11200000,915,2,Very high predicted demand
+145,Koregaon Park,80.7,Very High,10800000,875,2,Very high predicted demand
+310,Kharadi,80.6,Very High,7300000,1045,2,Very high predicted demand
+1,Koregaon Park,79.7,High,18000000,980,2,Very high predicted demand
+303,Kharadi,79.5,High,3300000,865,2,Very high predicted demand
+251,Hinjewadi,79.0,High,6450000,679,2,Very high predicted demand
+325,Kharadi,78.9,High,7500000,792,2,Very high predicted demand
+42,Koregaon Park,78.6,High,13500000,1000,2,Very high predicted demand
+313,Kharadi,78.6,High,8100000,1260,2,Very high predicted demand
+141,Koregaon Park,78.5,High,11800000,980,2,Very high predicted demand
+308,Kharadi,78.4,High,7500000,742,2,Very high predicted demand
+13,Koregaon Park,78.2,High,12500000,950,2,Very high predicted demand

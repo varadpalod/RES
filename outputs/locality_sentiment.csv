@@ -1,0 +1,4 @@
+locality,price_perception,price_perception_std,infrastructure_satisfaction,infrastructure_satisfaction_std,investment_confidence,investment_confidence_std,buying_urgency,buying_urgency_std,overall_sentiment,overall_sentiment_std,sentiment_volatility,sample_count,latest_date,oldest_date
+Hinjewadi,0.004,0.321,0.062,0.438,0.205,0.466,0.515,0.045,0.224,0.369,0.328,45,2026-01-16,2025-07-28
+Koregaon Park,0.086,0.308,0.191,0.62,0.158,0.484,0.511,0.065,0.177,0.441,0.384,42,2026-01-05,2025-07-25
+Kharadi,-0.047,0.358,0.221,0.533,0.062,0.428,0.498,0.057,0.076,0.412,0.358,36,2026-01-11,2025-07-28

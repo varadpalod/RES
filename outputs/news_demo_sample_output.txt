@@ -1,0 +1,133 @@
+
+================================================================================
+📰 NEWS ARTICLE SENTIMENT ANALYSIS - WORKING DEMO
+================================================================================
+
+================================================================================
+ARTICLE #1: Pune Metro Line 3 Approved: Hinjewadi to Get Direct Connectivity
+================================================================================
+Source: Times of India | Date: 2026-01-15
+
+Content Preview:
+The Maharashtra government has approved Pune Metro Line 3, which will connect 
+        Hinjewadi IT Park directly to the city center via Wakad and Baner. Real estate experts ...
+
+🏘️  Localities Mentioned: Hinjewadi, Wakad, Baner
+📊 Sentiment: 📈 POSITIVE (Score: 0.959)
+🏷️  Category: Infrastructure
+
+================================================================================
+ARTICLE #2: Koregaon Park Faces Waterlogging Crisis During Monsoon
+================================================================================
+Source: Pune Mirror | Date: 2026-01-12
+
+Content Preview:
+Residents of Koregaon Park are frustrated with recurring waterlogging issues. 
+        The PMC has failed to address drainage problems, causing property damage...
+
+🏘️  Localities Mentioned: Koregaon Park
+📊 Sentiment: 📉 NEGATIVE (Score: -0.912)
+🏷️  Category: Infrastructure Issues
+
+================================================================================
+ARTICLE #3: Baner Emerges as Top Investment Destination in Pune
+================================================================================
+Source: Economic Times | Date: 2026-01-10
+
+Content Preview:
+Baner has emerged as the most sought-after locality for real estate investment, 
+        thanks to its proximity to IT hubs, excellent connectivity, and growing social ...
+
+🏘️  Localities Mentioned: Baner
+📊 Sentiment: 📈 POSITIVE (Score: 0.965)
+🏷️  Category: Pricing & Investment
+
+================================================================================
+ARTICLE #4: RERA Cracks Down on Delayed Projects in Pune
+================================================================================
+Source: Hindustan Times | Date: 2026-01-08
+
+Content Preview:
+MahaRERA has issued notices to 15 builders in Pune for project delays and 
+        violations. Areas like Wagholi and Kharadi are most affected, with buyers fa...
+
+🏘️  Localities Mentioned: Wagholi, Kharadi
+📊 Sentiment: 📉 NEGATIVE (Score: -0.836)
+🏷️  Category: Regulations & Compliance
+
+
+================================================================================
+📊 LOCALITY-LEVEL SENTIMENT SUMMARY
+================================================================================
+
+🏘️  BANER
+   └─ News Articles: 2
+   └─ Average Sentiment: 0.962 📈 POSITIVE
+   └─ Recent Headlines:
+      📈 Pune Metro Line 3 Approved: Hinjewadi to Get Direct Connectivity...
+      📈 Baner Emerges as Top Investment Destination in Pune...
+
+🏘️  HINJEWADI
+   └─ News Articles: 1
+   └─ Average Sentiment: 0.959 📈 POSITIVE
+   └─ Recent Headlines:
+      📈 Pune Metro Line 3 Approved: Hinjewadi to Get Direct Connectivity...
+
+🏘️  KHARADI
+   └─ News Articles: 1
+   └─ Average Sentiment: -0.836 📉 NEGATIVE
+   └─ Recent Headlines:
+      📉 RERA Cracks Down on Delayed Projects in Pune...
+
+🏘️  KOREGAON PARK
+   └─ News Articles: 1
+   └─ Average Sentiment: -0.912 📉 NEGATIVE
+   └─ Recent Headlines:
+      📉 Koregaon Park Faces Waterlogging Crisis During Monsoon...
+
+🏘️  WAGHOLI
+   └─ News Articles: 1
+   └─ Average Sentiment: -0.836 📉 NEGATIVE
+   └─ Recent Headlines:
+      📉 RERA Cracks Down on Delayed Projects in Pune...
+
+🏘️  WAKAD
+   └─ News Articles: 1
+   └─ Average Sentiment: 0.959 📈 POSITIVE
+   └─ Recent Headlines:
+      📈 Pune Metro Line 3 Approved: Hinjewadi to Get Direct Connectivity...
+
+
+================================================================================
+💡 INTEGRATION WITH YOUR EXISTING SYSTEM
+================================================================================
+
+How this enhances your broker_sentiment platform:
+
+1. CURRENT: You have synthetic sentiment data
+   ENHANCED: Add real-world news sentiment as a new data source
+
+2. CURRENT: sentiment_analyzer.py analyzes buyer reviews
+   ENHANCED: Also analyze news articles for market signals
+
+3. CURRENT: Your ML model uses sentiment scores
+   ENHANCED: Add 'news_sentiment_score' as a new feature
+
+4. CURRENT: Dashboard shows property-level sentiment
+   ENHANCED: Show "Recent News" section per locality with impact scores
+
+5. EXAMPLE FEATURE ENGINEERING:
+   - news_sentiment_30d: Average news sentiment (last 30 days)
+   - news_volume_7d: Number of news mentions (last 7 days)
+   - news_infrastructure_score: Positive infrastructure news impact
+   - news_risk_score: Negative news (RERA issues, delays, etc.)
+
+6. DASHBOARD ENHANCEMENT:
+   - Add "News Feed" tab
+   - Show news alerts (e.g., "New metro line approved in Hinjewadi!")
+   - Display news sentiment trend charts
+   - Highlight properties in localities with positive news momentum
+    
+================================================================================
+✅ Demo Complete! Ready to integrate into your system?
+================================================================================
